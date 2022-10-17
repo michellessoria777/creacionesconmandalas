@@ -35,3 +35,6 @@ a {
     background-image: url(../imagenes/fondo-blanco-gris-brillante-lineas-onduladas_1017-25101.webp);
     background-size: 95%;
 }
+p {
+    font-size: 60%;
+}
