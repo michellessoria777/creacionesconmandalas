@@ -43,6 +43,7 @@ a {
 }
 p {
     font-size: 60%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 @media screen and (max-width: 600px){
